@@ -5,7 +5,7 @@
 
   <extension point="org.eclipse.emf.ecore.generated_package">
     <package 
-       uri = "http://www.github.com/jianni/jmodel-validation/ValidationLanguage" 
+       uri = "http://www.github.com/jmodel/jmodel-validation/ValidationLanguage" 
        class = "com.github.jmodel.validation.plugin.ValidationLanguagePackage"
        genModel = "model/generated/ValidationLanguage.genmodel" /> 	
   </extension>

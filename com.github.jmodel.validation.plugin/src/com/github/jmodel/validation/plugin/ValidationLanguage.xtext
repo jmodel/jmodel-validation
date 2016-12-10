@@ -1,6 +1,6 @@
 grammar com.github.jmodel.validation.plugin.ValidationLanguage with org.eclipse.xtext.xbase.Xbase
 
-generate validationLanguage "http://www.github.com/jianni/jmodel-validation/ValidationLanguage"
+generate validationLanguage "http://www.github.com/jmodel/jmodel-validation/ValidationLanguage"
 import "http://www.eclipse.org/xtext/xbase/Xbase" as xbase
 
 Validation:

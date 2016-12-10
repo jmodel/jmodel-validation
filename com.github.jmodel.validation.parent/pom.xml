@@ -18,12 +18,12 @@
 		<module>../com.github.jmodel.validation.plugin.ui</module>
 		<module>../com.github.jmodel.validation.plugin.updatesite</module>
 	</modules>
-	<url>https://github.com/jianni/jmodel-validation</url>
+	<url>https://github.com/jmodel/jmodel-validation</url>
 	<description>A validation framework and plugin</description>
 	<scm>
-		<url>https://github.com/jianni/jmodel-validation.git</url>
-		<connection>scm:git:git@github.com:jianni/jmodel-validation.git</connection>
-		<developerConnection>scm:git:git@github.com:jianni/jmodel-validation.git</developerConnection>
+		<url>https://github.com/jmodel/jmodel-validation.git</url>
+		<connection>scm:git:git@github.com:jmodel/jmodel-validation.git</connection>
+		<developerConnection>scm:git:git@github.com:jmodel/jmodel-validation.git</developerConnection>
 	</scm>
 	<properties>
 		<jmodel.version>0.0.1</jmodel.version>
